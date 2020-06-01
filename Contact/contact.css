@@ -1,0 +1,58 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(../About/Fonts/Montserrat/Montserrat-Regular.ttf);
+}
+.logo{
+    width: 280px !important;
+    margin-top: 20px !important;
+}
+.navbar{
+    background-color: #c5d5cb !important;
+}
+.fa-shopping-cart,.fa-user{
+    font-size: 25px !important;
+}
+.nav-link{
+    font-weight: bold;
+}
+.form-group{
+    margin-left: 35%;
+}
+.btn-primary{
+    margin-left: 45%;
+}
+/* .fa-phone{
+    font-size: 29px !important;
+    margin-left: 200px;
+    color: green;
+    margin-top: 50px;
+}
+.fa-envelope-o{
+    font-size: 29px !important;
+    margin-left: 200px;
+    color: green;
+    margin-top: 6px;
+}
+.fa-facebook-official{
+    margin-left: 290px !important;
+    color: white;
+    font-size: 25px !important;
+    margin-top: -10px !important;
+}
+.fa-instagram {
+    color: white;
+    font-size: 27px !important;
+} */
+.footer{
+    background-color: #84c09a;
+    height: auto;
+    margin-top: 0px;
+}
+h6 {
+    margin-top: 0px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Montserrat;
+    padding: 40px;
+}
